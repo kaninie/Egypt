@@ -1,0 +1,24 @@
+body {
+    background-color: #F7DBF0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr {
+    border-style: none;
+    border-top: 5px dotted #F9F9F9;
+    height: 2px;
+    width: 4%;
+}
+h1 {
+    color: #b593e2;
+}
+h3 {
+    color: #66bfbf;
+}
+
+a:hover {
+font-weight: bold;
+}
+
+.circular {
+    border-radius: 100%;
+}
